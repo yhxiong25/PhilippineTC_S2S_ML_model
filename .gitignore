@@ -1,0 +1,17 @@
+/backup/
+/logs/
+/data/
+/free_trail/
+/process_check/
+__pycache__/
+*.log
+*.partial
+*.grib
+*.pt
+*.csv
+*.png
+*.pdf
+*.pyc
+*.7z
+*.nc
+
